@@ -1,5 +1,6 @@
-nginx
-ubuntu:20.04
+#nginx
+#ubuntu:20.04
+ghcr.io/mathworks-ref-arch/matlab-dockerfile/matlab:r2022a
 #支持私库2
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
