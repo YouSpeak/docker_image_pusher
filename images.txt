@@ -1,5 +1,7 @@
-nvidia/cuda:11.3.1-runtime-ubuntu20.04
-nvidia/cuda:11.3.1-devel-ubuntu20.04
+#nvidia/cuda:11.3.1-runtime-ubuntu20.04
+#nvidia/cuda:11.3.1-devel-ubuntu20.04
+
+mathworks/matlab:r2022a
 
 #nginx
 #ubuntu:20.04
