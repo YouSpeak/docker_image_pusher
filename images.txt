@@ -1,5 +1,5 @@
 
-mathworks/matlab:r2019b
+mathworks/matlab-deps:r2019b
 #docker.io/alpine:3.13
 
 #nvidia/cuda:11.3.1-runtime-ubuntu20.04
