@@ -1,19 +1,17 @@
+jupyter/base-notebook:python-3.9.7
+ghcr.io/skai-x/enterprise-gateway:2.6.0
+ghcr.io/skai-x/jupyter-kernel-py:2.6.0
+
 #alpine:3.10
 #golang:1.18.6 
-golang:1.16
-
-
+#golang:1.16
 #pytorch/pytorch:1.11.0-cuda11.3-cudnn8-runtime
-
 #mathworks/matlab-deps:r2019b
 #docker.io/alpine:3.13
-
 #nvidia/cuda:11.3.1-runtime-ubuntu20.04
 #nvidia/cuda:11.3.1-devel-ubuntu20.04
-
 # mathworks/matlab:r2022a
 # openapitools/openapi-generator-cli:v5.1.1
-
 #nginx
 #ubuntu:20.04
 #ghcr.io/mathworks-ref-arch/matlab-dockerfile/matlab:r2022a
