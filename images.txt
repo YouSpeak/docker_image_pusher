@@ -1,4 +1,5 @@
-ghcr.io/skai-x/enterprise-gateway-with-kernel-spec:latest
+elyra/kernel-tf-gpu-py:dev
+#ghcr.io/skai-x/enterprise-gateway-with-kernel-spec:latest
 #ghcr.io/skai-x/elastic-jupyter-operator:latest
 #gcr.io/distroless/static:nonroot
 
