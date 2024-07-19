@@ -1,10 +1,11 @@
-ghcr.io/skai-x/elastic-jupyter-operator:latest
+ghcr.io/skai-x/enterprise-gateway-with-kernel-spec:latest
+#ghcr.io/skai-x/elastic-jupyter-operator:latest
 #gcr.io/distroless/static:nonroot
 
 #jupyter/base-notebook:python-3.9.7
 #ghcr.io/skai-x/enterprise-gateway:2.6.0
 #ghcr.io/skai-x/jupyter-kernel-py:2.6.0
-golang:1.17.6-alpine
+#golang:1.17.6-alpine
 
 #alpine:3.10
 #golang:1.18.6 
