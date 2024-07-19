@@ -1,4 +1,5 @@
-gcr.io/distroless/static:nonroot
+ghcr.io/skai-x/elastic-jupyter-operator:latest
+#gcr.io/distroless/static:nonroot
 
 #jupyter/base-notebook:python-3.9.7
 #ghcr.io/skai-x/enterprise-gateway:2.6.0
