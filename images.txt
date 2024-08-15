@@ -1,4 +1,6 @@
-docker.io/bitnami/kubectl:1.25
+scratch
+
+#docker.io/bitnami/kubectl:1.25
 #pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
 #elyra/kernel-py:dev
 #elyra/kernel-tf-gpu-py:dev
