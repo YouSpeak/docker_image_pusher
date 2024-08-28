@@ -1,4 +1,4 @@
-scratch
+pytorch/pytorch:2.4.0-cuda11.8-cudnn9-devel
 
 #docker.io/bitnami/kubectl:1.25
 #pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
