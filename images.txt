@@ -1,4 +1,11 @@
-kubesphere/kube-events-operator:latest
+kubesphere/kube-events-exporter:latest
+jimmidyson/configmap-reload:v0.3.0
+kubesphere/kube-events-ruler:latest
+
+
+
+
+#kubesphere/kube-events-operator:latest
 
 
 #pytorch/pytorch:2.4.0-cuda11.8-cudnn9-devel
