@@ -1,6 +1,8 @@
-kubesphere/kube-events-exporter:latest
-jimmidyson/configmap-reload:v0.3.0
-kubesphere/kube-events-ruler:latest
+
+nvidia/cuda:11.6.2-devel-ubuntu18.04
+#kubesphere/kube-events-exporter:latest
+#jimmidyson/configmap-reload:v0.3.0
+#kubesphere/kube-events-ruler:latest
 
 
 
