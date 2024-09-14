@@ -1,5 +1,5 @@
 
-nvidia/cuda:11.6.2-devel-ubuntu18.04
+pytorch/pytorch:1.8.1-cuda10.2-cudnn7-runtime
 #kubesphere/kube-events-exporter:latest
 #jimmidyson/configmap-reload:v0.3.0
 #kubesphere/kube-events-ruler:latest
