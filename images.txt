@@ -1,5 +1,7 @@
+robustadev/kubewatch:v2.9.0
+
 #traefik:v3.1.4
-ubuntu:18.04
+#ubuntu:18.04
 
 
 #pytorch/pytorch:1.8.1-cuda10.2-cudnn7-runtime
