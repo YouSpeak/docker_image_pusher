@@ -1,4 +1,5 @@
-cgr.dev/chainguard/bash:latest
+golang
+#cgr.dev/chainguard/bash:latest
 #robustadev/kubewatch:v2.9.0
 
 #traefik:v3.1.4
