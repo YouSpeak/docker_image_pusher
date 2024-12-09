@@ -1,4 +1,4 @@
-golang
+golang:1.14
 #cgr.dev/chainguard/bash:latest
 #robustadev/kubewatch:v2.9.0
 
