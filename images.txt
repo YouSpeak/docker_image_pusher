@@ -1,6 +1,6 @@
 mpioperator/mpi-pi:openmpi
 
-#reiz/nginx_proxy
+# reiz/nginx_proxy
 #golang:1.14
 #cgr.dev/chainguard/bash:latest
 #robustadev/kubewatch:v2.9.0
