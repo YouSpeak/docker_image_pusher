@@ -1,4 +1,4 @@
-gcr.io/google-containers/pause:3.9
+gcr.io/google-containers/pause:3.2
 
 #mpioperator/mpi-pi:openmpi
 
