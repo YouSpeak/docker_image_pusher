@@ -1,4 +1,6 @@
-mpioperator/mpi-pi:openmpi
+gcr.io/google-containers/pause:3.9
+
+#mpioperator/mpi-pi:openmpi
 
 # reiz/nginx_proxy
 #golang:1.14
