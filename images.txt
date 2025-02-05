@@ -1,4 +1,6 @@
-gcr.io/google-containers/pause:3.2
+busybox
+
+#gcr.io/google-containers/pause:3.2
 
 #mpioperator/mpi-pi:openmpi
 
