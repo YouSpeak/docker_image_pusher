@@ -1,4 +1,6 @@
-busybox
+ghcr.io/open-webui/open-webui:ollama
+
+#busybox
 
 #gcr.io/google-containers/pause:3.2
 
