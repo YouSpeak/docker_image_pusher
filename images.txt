@@ -1,4 +1,6 @@
-ghcr.io/open-webui/open-webui:ollama
+pytorch/pytorch:2.3.1-cuda12.1-cudnn8-runtime
+
+#ghcr.io/open-webui/open-webui:ollama
 
 #busybox
 
