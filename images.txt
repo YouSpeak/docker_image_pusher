@@ -1,4 +1,7 @@
-redis
+moby/buildkit:buildx-stable-1
+
+
+#redis
 
 #centos:7.9.2009
 
