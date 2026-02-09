@@ -1,5 +1,3 @@
-
-pnpm-base
 node:20-alpine
 
 
